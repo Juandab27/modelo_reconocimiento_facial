@@ -1,8 +1,6 @@
 # 🧠 Modelo de Reconocimiento Facial
 
-<p align="center">
 Proyecto de clasificación facial utilizando Transfer Learning con MobileNetV2 y TensorFlow
-</p>
 
 ---
 
@@ -131,7 +129,8 @@ El modelo se evalúa utilizando:
 
 Proyecto desarrollado en equipo como parte del curso de Inteligencia Artificíal.
 
-Mi rol en el proyecto:
-- Responsable del desarrollo técnico y entrenamiento del modelo
+**Juan David Bermúdez**
+
+Responsable del desarrollo técnico y entrenamiento del modelo.
 
 ---

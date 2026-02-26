@@ -1,4 +1,4 @@
-# 🧠 Reconocimiento Facial con Deep Learning
+# 🧠 Modelo de Reconocimiento Facial
 
 <p align="center">
 Proyecto de clasificación facial utilizando Transfer Learning con MobileNetV2 y TensorFlow

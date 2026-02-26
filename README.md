@@ -40,13 +40,13 @@ Reconocimiento_Facial/
 │
 ├── Reconocimiento_facial.ipynb
 ├── dataset/
-│   ├── train/
-│   │   ├── clase1/
-│   │   ├── clase2/
+│   ├── dataser/
+│   │   ├── nombre1/
+│   │   ├── nombre2/
 │   │   └── ...
-│   ├── validation/
-│   │   ├── clase1/
-│   │   ├── clase2/
+│   ├── pruebas/
+│   │   ├── nombre1/
+│   │   ├── nombre2/
 │   │   └── ...
 │
 ├── requirements.txt
@@ -124,14 +124,6 @@ El modelo se evalúa utilizando:
 * Confusion Matrix
 * Accuracy
 * Métricas por clase
-
----
-
-# 📌 Resultados
-
-El modelo logra una clasificación efectiva de las imágenes faciales según las clases definidas en el dataset.
-
-*(Aquí puedes agregar una imagen de la matriz de confusión o gráficos de entrenamiento para que tu GitHub se vea más profesional)*
 
 ---
 
